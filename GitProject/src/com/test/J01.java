@@ -8,6 +8,7 @@ public class J01 {
 		// TODO Auto-generated method stub  // ¡÷ºÆ Ctrl+/
 		Scanner s = new Scanner(System.in); // Ctrl+shift+o
 		System.out.println("Hello");
+		System.out.println("Hello");
 	}
 
 }
