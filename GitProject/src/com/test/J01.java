@@ -9,6 +9,7 @@ public class J01 {
 		Scanner s = new Scanner(System.in); // Ctrl+shift+o
 		System.out.println("Hello");
 		System.out.println("Hello");
+		System.out.println("Fix J01");
 	}
 
 }
